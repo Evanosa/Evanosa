@@ -19,8 +19,6 @@ View Project at :
 # https://github.com/Nosa-Drexx
 
 
-- 📫 How to reach me: ...
-
 - 📭 nosaegharevba01@gmail.com
 
 
